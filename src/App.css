@@ -248,3 +248,11 @@ cursor: pointer;
 
 
 }
+
+/*steps*/
+
+.S1{
+  position: absolute;
+top: 50px;
+
+}

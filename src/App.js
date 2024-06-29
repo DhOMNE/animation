@@ -5,9 +5,9 @@ function App() {
   return (
     <body>
 
-      <a href="container1"><button id="a"> container1</button> </a>
-       <a href ="#d"><button id="b"> button2</button></a> 
-       <a href ="#f">  <button id="c"> button3</button></a>
+      <a href="container1"><button id="a"> Step1</button> </a>
+       <a href ="#d"><button id="b"> Step2</button></a> 
+       <a href ="#f">  <button id="c"> Step3</button></a>
 
       
                 <div class="container1"  >
@@ -22,13 +22,13 @@ function App() {
 
         <div class="container2"  >
 
-
+        <h1 id='S2'>Step2</h1>
         </div>
 
         <img id='e' href="#" src="vector3.png" />
     
         <div class="container3"  >
-
+        <h1 id='S3'>Step3</h1>
 
        </div>
         
